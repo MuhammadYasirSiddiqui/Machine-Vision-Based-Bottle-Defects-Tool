@@ -1,0 +1,2 @@
+This is the prototype software for identifying different bottle defects such as dent, art work allignment, batch number detection ,checking cap fitted well or no
+for quires or code contact us on Email: mr.yasir1996@gmail.com 
